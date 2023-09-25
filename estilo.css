@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(230, 196, 173);
+  }
+  
+h1 {
+
+    color:antiquewhite;
+    text-align: center;
+}
+
+  h4 {
+    color: navy;
+    text-align: center;
+  }
+
+ .div1 {
+  background-color: lightblue;
+  text-align: left;
+  border-style: outset;
+
+  }
